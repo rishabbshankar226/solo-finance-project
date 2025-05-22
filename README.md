@@ -17,4 +17,22 @@ through 2030 and valuing the firm using a peer-derived WACC. Includes an interac
 - **Hosting:** GitHub repository  
 
 **Repo Structure**  
+tesla-dcf-project/
+├── README.md                  
+├── .gitignore                
+
+├── Data/
+│   ├── raw/                  
+│   └── processed/             
+
+├── Excel_Model/
+│   ├── Tesla_DCF_Model.xlsx  
+│   └── Excel_Model_ReadMe.md  
+|
+├── PowerBI/
+│   ├── Tesla_DCF_Report.pbix  
+│   └── PBIX_Instructions.md   
+|
+└── Report/
+    ├── Tesla_DCF.pdf  
 
