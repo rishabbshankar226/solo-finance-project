@@ -1,2 +1,5 @@
-mkdir tesla-dcf-dashboard
-cd tesla-dcf-dashboard
+echo ".DS_Store
+*.pbix
+*.xlsx
+*.xlsm
+__pycache__/" > .gitignore
